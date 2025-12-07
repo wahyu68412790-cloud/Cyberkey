@@ -1,0 +1,31 @@
+{
+  "licenses": [
+    {
+      "key": "123456",
+      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
+      "expiry_date": "2025-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "alpha@123",
+      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
+      "expiry_date": "2015-12-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-15",
+      "max_devices": 1
+    },
+    {
+      "key": "TEST-0000-DEMO-1111",
+      "device_id": "",
+      "expiry_date": "2024-12-31",
+      "active": false,
+      "status": "inactive",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    }
+  ]
+}
